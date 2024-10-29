@@ -1,4 +1,4 @@
-to run the model you have to make a dataset for it the structue should be like this:
+to train the model you have to make a dataset for it the structue should be like this:
 
 dataset <br>
 &nbsp;&nbsp;&nbsp;&nbsp;|- right <br>
